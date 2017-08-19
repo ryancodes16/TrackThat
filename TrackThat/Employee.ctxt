@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=firstName\ lastName\ position\ hourlyRate
+comment0.target=Employee(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+numComments=1
